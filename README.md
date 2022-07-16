@@ -1,2 +1,2 @@
 # frontpage
-Fp
+Frontpage and presentation of some projects

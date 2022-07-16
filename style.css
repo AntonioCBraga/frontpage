@@ -162,7 +162,20 @@ body{
     position:relative;
     bottom:5px;
     margin-left:5px;
+    
 
+}
+
+.box1{
+       
+    width:75px;
+    position:relative;
+    margin-top:0;
+    bottom:25px;
+    left:1750px;
+    color:white;
+    font-size:110%;
+    
 }
 
 
